@@ -1,0 +1,10 @@
+Valor: 0 - Indice: 0
+Valor: 0 - Indice: 1
+Valor: 0 - Indice: 2
+Valor: 0 - Indice: 3
+Valor: 0 - Indice: 4
+Valor: 0 - Indice: 5
+Valor: 0 - Indice: 6
+Valor: 0 - Indice: 7
+Valor: 0 - Indice: 8
+Valor: 0 - Indice: 9
